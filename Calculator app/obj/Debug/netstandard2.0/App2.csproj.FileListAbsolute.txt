@@ -1,0 +1,15 @@
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\bin\Debug\netstandard2.0\ref\App2.dll
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.AssemblyReference.cache
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\refint\App2.dll
+D:\Kareem\Term7\Mobile\XAMARIN1\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
